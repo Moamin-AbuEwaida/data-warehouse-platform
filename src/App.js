@@ -20,9 +20,9 @@ function App() {
       <Hero />
       <About />
       <Features />
-      {/*<Testimonials />
+      <Testimonials />
       <CtaSection />
-      <Footer /> */}
+      <Footer />   
     </div>
   );
 }
